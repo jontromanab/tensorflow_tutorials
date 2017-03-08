@@ -9,4 +9,6 @@
 
 **3_GradientDescent_tf.contrib_custom_model.ipynb** - Gradient Descent with tf.contrib custom model
 
-**4_MNIST_softmax_regression.ipynb** - Softmax regression on MNIST dataset
+**4_MNIST_softmax_regression.ipynb** - Softmax regression on MNIST dataset (accuracy: 0.9034)
+
+**5_Deep_MNIST.ipynb** - Deep Convolutional Network on MNIST (accuracy: 0.9925)
