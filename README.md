@@ -16,3 +16,5 @@
 **6_IRIS_data_tf.contrib_from_csv.ipynb** - Creating a DNN for IRIS data using tf.contrib/ take data from CSV (Accuracy: 0.966667)
 
 **7_mandelbrot.ipynb** - Create a Mandelbrot function and show fractal
+
+**8_Partial_differential_eq.ipynb** - Partial differential equation and show ripples in a pond
