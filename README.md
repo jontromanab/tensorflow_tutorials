@@ -11,6 +11,8 @@
 
 **4_MNIST_softmax_regression.ipynb** - Softmax regression on MNIST dataset (accuracy: 0.9034)
 
+**4_MNIST_A_softmax_regression_tensor_summary.ipynb** - Softmax regression on MNIST dataset . Tensorboard visualization of accuracy and loss
+
 **5_Deep_MNIST.ipynb** - Deep Convolutional Network on MNIST (accuracy: 0.9925)
 
 **6_IRIS_data_tf.contrib_from_csv.ipynb** - Creating a DNN for IRIS data using tf.contrib/ take data from CSV (Accuracy: 0.966667)
